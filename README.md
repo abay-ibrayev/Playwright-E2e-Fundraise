@@ -7,6 +7,8 @@
 
 pre install nodejs + npm\yarn please (latest stable version)
 
+To see demo - please look at *playwright-demo.mp4* file
+
 
 ### Installing
 
