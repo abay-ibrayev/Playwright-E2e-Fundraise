@@ -61,7 +61,7 @@ In project u can find:
 - Functional tests 
 - Visual Regression tests
 - Performance tests (using lighthouse)
-- API tests
+- API tests (would like to add as a next step)
 - Allure Report
 
 
