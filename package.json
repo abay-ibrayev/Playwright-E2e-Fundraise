@@ -1,0 +1,23 @@
+{
+  "name": "fundraise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "@playwright/test": "^1.24.2",
+    "allure-playwright": "^2.0.0-beta.18",
+    "lighthouse": "^9.6.5",
+    "onchange": "^7.1.0",
+    "playwright": "^1.24.2",
+    "playwright-lighthouse": "^2.2.2",
+    "prettier": "^2.7.1"
+  },
+  "scripts": {
+    "prettier-format": "prettier --config .prettierrc 'src/**/*.ts' --write",
+    "prettier-watch": "onchange 'src/**/*.ts' -- prettier --write {{changed}}"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
