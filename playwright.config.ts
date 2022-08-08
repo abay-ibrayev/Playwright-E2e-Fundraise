@@ -48,7 +48,7 @@ const config: PlaywrightTestConfig = {
       // testMatch: /.*smoke.spec.ts/,
       use: {
         ...devices['Desktop Chrome'],
-        headless: false,
+        headless: true,
       },
     },
 
